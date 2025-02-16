@@ -11,6 +11,15 @@ Despite doing all of these additional things, the code for ThumbHash is still si
 
 A demo and more information is available here: https://evanw.github.io/thumbhash/.
 
+## Installation
+
+Use this repo directly, or install it via a package manager:
+
+```
+yarn install thumbhash
+npm i thumbhash
+```
+
 ## Implementations
 
 This repo contains implementations for the following languages:
